@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.outerdiv {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+}
+
+.innerdiv {
+  height: 100%;
+  width: 50%;
+  font-size: 20rem;
+  text-align: center;
+  padding: 10rem 0;
+  border: 2px solid green;
+}
+
+.img {
+  height: 400px;
+  width: 400px;
+  font-size: 1rem;
+  margin: auto;
+}
