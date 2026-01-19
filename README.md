@@ -41,6 +41,10 @@ This project was developed to practice JavaScript event handling, input validati
 
 🎙️ Voice and pronunciation control
 
+🌍 Multi-language alphabet support
+
+🌙 Dark mode
+
 
 
 ## 📷 Project Output Preview
@@ -49,7 +53,3 @@ This project was developed to practice JavaScript event handling, input validati
 <img width="1920" height="964" alt="Text_To_Speech_1" src="https://github.com/user-attachments/assets/6e1d2a78-12d8-4178-be69-abb0ec137130" /><br><br><br>
 <img width="1920" height="1013" alt="Text_To_Speech_2" src="https://github.com/user-attachments/assets/81706f92-dae1-41b6-9767-6bc837b081d6" /><br><br><br>
 <img width="1920" height="1011" alt="Text_To_Speech_3" src="https://github.com/user-attachments/assets/ea22e944-ab5a-4964-adea-ed817888c2de" />
-
-🌍 Multi-language alphabet support
-
-🌙 Dark mode
